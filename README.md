@@ -1,2 +1,2 @@
 # mushoviri_oilavi_bot
-telegram bot
+telegram bot .py
